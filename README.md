@@ -4,8 +4,11 @@ Overview : This is a Python based application which suggests movies based on you
 Libraries: streamlit, pandas, numpy,ast
 
 Requirements: 
+
  *Install Streamlit package
+ 
  *Install pandas
+ 
  *Install the data sets
 
 link for Datasets:
