@@ -13,9 +13,6 @@ Requirements:
 
 link for Datasets:
   https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
- 
-The Application is deployed at:
-  https://recomat.herokuapp.com
 
 Acknowledgements:
 The datasets were generated from The Movie Database API. This product uses the TMDb API but is not endorsed or certified by TMDb.
